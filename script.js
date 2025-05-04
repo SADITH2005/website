@@ -3,7 +3,7 @@ const projects = [
   {
     title: "To-do List App",
     description: "A simple task manager built using HTML, CSS and JavaScript with local storage for data persistence.",
-    image: "photo\Todo.png",
+    image: photo/Todo.png,
     link: "https://sadith2005.github.io/To-do-list-app/"
   },
   {
