@@ -9,19 +9,19 @@ const projects = [
   {
     title: "Pythagoras Calculator",
     description: "Interactive tool to calculate hypotenuse and sides using the Pythagorean theorem with visual representation.",
-    image: "https://drive.google.com/file/d/1CuQrxMd9FsUTpW2QxhzD2eEFeF61zkv0/view?usp=sharing",
+    image: "https://cdn.glitch.global/663e7d2b-1f1c-46f3-8f05-a4b02b32a4e8/pytho.png?v=1746378797342",
     link: "https://sadith2005.github.io/Pythagoras_calculater/"
   },
   {
     title: "Math Game",
     description: "An interactive math quiz game for kids and students featuring multiple difficulty levels and timed challenges.",
-    image: "https://drive.google.com/file/d/1mFaXZ4l8FgsO899PfPwmFNnNzKLxLsuT/view?usp=sharing",
+    image: "https://cdn.glitch.global/663e7d2b-1f1c-46f3-8f05-a4b02b32a4e8/mathgame.jpg?v=1746378802315",
     link: "https://sadith2005.github.io/Math-Game/"
   },
   {
     title: "Sadith Salon Website",
     description: "A modern responsive web design for a salon business with online booking functionality and service catalog.",
-    image: "https://drive.google.com/file/d/1GKJj5IqXhzmFah2-okwnXfOcJZcoPWgW/view?usp=sharing",
+    image: "https://cdn.glitch.global/663e7d2b-1f1c-46f3-8f05-a4b02b32a4e8/saloon.png?v=1746378794817",
     link: "https://sadith2005.github.io/sadith-saloon-web/"
   },
   {
