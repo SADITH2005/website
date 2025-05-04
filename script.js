@@ -33,8 +33,8 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "Professional portfolio website built with HTML, CSS, and JavaScript showcasing projects and skills.",
-    image: "/api/placeholder/400/200",
-    link: "#"
+    image: "https://cdn.glitch.global/663e7d2b-1f1c-46f3-8f05-a4b02b32a4e8/poet.png?v=1746379216867",
+    link: "https://sadith2005.github.io/website/"
   }
 ];
 
