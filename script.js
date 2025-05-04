@@ -118,9 +118,27 @@ function handleFormSubmit(e) {
   console.log({ name, email, subject, message });
   
   // Show success message (you could improve this with a proper modal/toast)
-  alert("Sorry,Server Teampary Closed!");
-  contactForm.reset();
-}
+window.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector("form");
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      const data = new FormData(form);
+      fetch(form.action, {
+        method: form.method,
+        body: data,
+        headers: {
+          'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          alert("Message sent successfully!");
+          form.reset();
+        } else {
+          alert("Oops! There was a problem.");
+        }
+      });
+    });
+  });
 
 // Intersection Observer for animations
 function setupIntersectionObserver() {
