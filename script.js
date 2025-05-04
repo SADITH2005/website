@@ -3,25 +3,25 @@ const projects = [
   {
     title: "To-do List App",
     description: "A simple task manager built using HTML, CSS and JavaScript with local storage for data persistence.",
-    image: "https://drive.google.com/file/d/1U9o9luNYtf6GZLc0hEwf0ugR3lU_u1Ke/view?usp=drive_link",
+    image: "https://drive.google.com/file/d/1U9o9luNYtf6GZLc0hEwf0ugR3lU_u1Ke/view?usp=sharing",
     link: "https://sadith2005.github.io/To-do-list-app/"
   },
   {
     title: "Pythagoras Calculator",
     description: "Interactive tool to calculate hypotenuse and sides using the Pythagorean theorem with visual representation.",
-    image: "https://drive.google.com/file/d/1CuQrxMd9FsUTpW2QxhzD2eEFeF61zkv0/view?usp=drive_link",
+    image: "https://drive.google.com/file/d/1CuQrxMd9FsUTpW2QxhzD2eEFeF61zkv0/view?usp=sharing",
     link: "https://sadith2005.github.io/Pythagoras_calculater/"
   },
   {
     title: "Math Game",
     description: "An interactive math quiz game for kids and students featuring multiple difficulty levels and timed challenges.",
-    image: "https://drive.google.com/file/d/1mFaXZ4l8FgsO899PfPwmFNnNzKLxLsuT/view?usp=drive_link",
+    image: "https://drive.google.com/file/d/1mFaXZ4l8FgsO899PfPwmFNnNzKLxLsuT/view?usp=sharing",
     link: "https://sadith2005.github.io/Math-Game/"
   },
   {
     title: "Sadith Salon Website",
     description: "A modern responsive web design for a salon business with online booking functionality and service catalog.",
-    image: "https://drive.google.com/file/d/1GKJj5IqXhzmFah2-okwnXfOcJZcoPWgW/view?usp=drive_link",
+    image: "https://drive.google.com/file/d/1GKJj5IqXhzmFah2-okwnXfOcJZcoPWgW/view?usp=sharing",
     link: "https://sadith2005.github.io/sadith-saloon-web/"
   },
   {
