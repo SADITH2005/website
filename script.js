@@ -25,10 +25,10 @@ const projects = [
     link: "https://sadith2005.github.io/sadith-saloon-web/"
   },
   {
-    title: "Weather Dashboard",
-    description: "Real-time weather application that displays current conditions and forecasts using weather API integration.",
-    image: "/api/placeholder/400/200", // Consider updating this placeholder
-    link: "#"
+    title: "Exam Center for DP education",
+    description: "Real Exam LMS for Students. This LMS make used Firebase + web development .",
+    image: "https://cdn.glitch.global/663e7d2b-1f1c-46f3-8f05-a4b02b32a4e8/dp.jpg?v=1750489078804", // Consider updating this placeholder
+    link: "dhttps://dp-education-exams.web.app/"
   },
   {
     title: "Portfolio Website",
